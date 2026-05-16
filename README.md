@@ -1,6 +1,6 @@
 # CyberSecurity-Portfolio
 
-Current professional aspiring to one day work on a Purple Team
+Current IT professional aspiring to one day work on a Purple Team
 
 ## Current Goals
 - Explorting Hunting Labs
