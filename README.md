@@ -15,7 +15,7 @@ Current professional aspiring to one day work on a Purple Team
 
 ## Certifications
 - CompTia Network+
-###(future certs here)
+## (future certs here)
   - CompTia Security+ (expired - Retake July 2026)
   - CompTia Pentest+ (January 2027)
   - CPTS (April 2027)
